@@ -1,0 +1,36 @@
+.navbar {
+
+    background-color: rgb(153, 31, 31);
+}
+
+.mais-vistos{
+
+    background-color: rgb(29, 26, 26);
+    
+}
+
+.texto{
+
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+
+}
+.espaco-top{
+    padding-top: 10px;
+}
+.pad{
+    
+    padding-bottom: 30px;
+
+}
+
+.poster{
+
+    display: inline-block;
+    width: 160px;
+}
+#socialmedia{
+
+    background-color: bisque;
+}
